@@ -1,5 +1,5 @@
 {
-  "name": "nuke",
+  "name": "nuke-core-js",
   "version": "0.0.1",
   "description": "NukeJs is an open source library that provides component oriented programming, JSX syntax and new features that we are working on",
   "main": "index.js",
